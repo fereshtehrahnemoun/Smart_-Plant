@@ -13,8 +13,8 @@ const int SOIL_PIN = A0;
 const int FAN_PIN = 5;
 const int PUMP_PIN = 8;
 
-const char* botToken = "7581009138:AAEeJLGMXVFLwktCff_L3538Mon884T1b_k";
-const char* chatId   = "5698006151";
+const char* botToken = "your Token";
+const char* chatId   = "your ID";
 const char* server   = "api.telegram.org";
 int port             = 443;
 
